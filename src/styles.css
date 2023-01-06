@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background: #cbd5e1;
+}
+button {
+  height: 7vh;
+  width: 15vw;
+  cursor: pointer;
+  font-size: medium;
+}
